@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200">
+  <!-- Background -->
+  <rect width="200" height="200" fill="#ffffff"/>
+  
+  <!-- Heart shape -->
+  <path d="M100 140
+           C 60 100, 20 80, 20 40
+           C 20 20, 40 10, 60 20
+           C 80 30, 90 40, 100 60
+           C 110 40, 120 30, 140 20
+           C 160 10, 180 20, 180 40
+           C 180 80, 140 100, 100 140Z" 
+        fill="none" 
+        stroke="#e74c3c" 
+        stroke-width="4"
+        stroke-linejoin="round"/>
+  
+  <!-- Heartbeat line -->
+  <path d="M40 100 L70 100 L80 70 L90 130 L100 100 L160 100" 
+        fill="none" 
+        stroke="#e74c3c" 
+        stroke-width="4"
+        stroke-linecap="round"/>
+</svg>
